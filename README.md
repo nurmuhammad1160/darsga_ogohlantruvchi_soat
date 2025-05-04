@@ -19,7 +19,7 @@ Loyihani o'z kompyuteringizda ishga tushirish uchun quyidagi qadamlarni bajaring
 1.  **Repozitoriyni klonlash (nusxalash):**
     Terminal yoki buyruqlar satrida quyidagi buyruqni kiriting:
     ```bash
-    git clone [https://github.com/nurmuhammad1160/mitturm_dars_jadvali.git](https://github.com/nurmuhammad1160/mitturm_dars_jadvali.git)
+    git clone https://github.com/nurmuhammad1160/darsga_ogohlantruvchi_soat.git
     ```
 
 2.  **Loyiha papkasiga o'tish:**
